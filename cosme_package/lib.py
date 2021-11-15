@@ -1,2 +1,5 @@
 def try_me():
-    print("you are using Cosme's package : Congrats !")
+    return "you are using Cosme's package : Congrats !"
+
+if __name__ == "__main__":
+   print(try_me())
